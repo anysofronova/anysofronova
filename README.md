@@ -42,13 +42,28 @@
 
 
 &nbsp;  
-### 🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟:  
-  - Master of Physico-mathematical Sciences
-  - [Coursera Certificates](https://github.com/anysofronova/Coursera-Certificates/blob/main/README.md)
-    - JavaScript for Beginners Specialization
-    - HTML, CSS, and Javascript for Web Developers
-    - Web Design for Everybody: Basics of Web Development & Coding Specialization
-    - Специализация Разработка интерфейсов: вёрстка и JavaScript
+### 🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟:
+- Master of Physico-mathematical Sciences
+- [Coursera Certificates](https://github.com/anysofronova/Coursera-Certificates/blob/main/README.md)
+  - Meta Front-End Developer
+    - Introduction to Front-End Development
+    - React Basics
+    - Version Control
+    - Advanced React
+    - Principles of UX/UI Design
+    - Front-End Developer Capstone
+    - Programming with JavaScript
+    - HTML and CSS in depth
+    - Coding Interview Preparation
+  - JavaScript for Beginners Specialization
+  - HTML, CSS, and Javascript for Web Developers
+  - Web Design for Everybody: Basics of Web Development & Coding Specialization
+  - Специализация Разработка интерфейсов: вёрстка и JavaScript
+  - JavaScript for Beginners
+    - JavaScript Basics
+    - Animation with JavaScript and jQuery
+    - Interactivity with JavaScript and jQuery
+    - Data Manipulation in JavaScript
 
 ### 💼 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠:  
 [![Portfolio-Anna](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anysofronova&repo=anna-sofronova&theme=dark)](https://github.com/anysofronova/anna-sofronova)
